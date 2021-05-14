@@ -6,7 +6,7 @@ name: GitHub Actions
 on:
   # Triggers the workflow on push or pull request events but only for the master branch  - cron: "0 0 16 ? * 6"
   schedule:
-  - cron: "47 14 * * *"
+  - cron: "04 14 * * *"
     
     
 
