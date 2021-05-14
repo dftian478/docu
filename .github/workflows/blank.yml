@@ -4,10 +4,9 @@ name: GitHub Actions
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
+  # Triggers the workflow on push or pull request events but only for the master branch  - cron: "0 0 16 ? * 6"
   schedule:
-  - cron: "0 0 16 ? * 6"
-  - cron: "0 26 19 ? * *"
+  - cron: "0 28 19 ? * *"
     
     
 
