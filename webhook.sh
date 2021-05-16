@@ -6,7 +6,7 @@ curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=ed3bcd16-690a-4e64-a2
    {
         "msgtype": "text",
         "text": {
-            "content": "该写日报啦~（测试ing）",
+            "content": "该写日报啦~",
             "mentioned_list":["@all"]
         }
    }'
